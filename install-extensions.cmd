@@ -1,0 +1,11 @@
+@echo off
+setlocal
+cd /d "%~dp0"
+powershell -NoProfile -ExecutionPolicy Bypass -File "%~dp0install-extensions.ps1"
+if errorlevel 1 (
+  echo.
+  pause
+  exit /b 1
+)
+echo.
+pause
