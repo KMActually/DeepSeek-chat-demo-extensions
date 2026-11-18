@@ -1,6 +1,6 @@
 # chat-demo-extensions
 
-给官方开源的 [chat-demo](https://github.com/deepseek-ai/chat-demo)（v0.1.1）用的一键扩展脚本。
+给DeepSeek官方开源的DeepSeek本地前端 [chat-demo](https://github.com/deepseek-ai/chat-demo)（v0.1.1）用的一键扩展脚本。
 
 运行前建议先备份
 
