@@ -1,6 +1,6 @@
 # chat-demo-extensions
 
-给官方开源的 [chat-demo](https://github.com/deepseek-ai/chat-demo)（v0.1.1）用的一键扩展脚本。
+给DeepSeek官方开源的DeepSeek本地前端 [chat-demo](https://github.com/deepseek-ai/chat-demo)（v0.1.1）用的一键扩展脚本。
 
 运行前建议先备份
 
@@ -15,7 +15,7 @@
 
 1. 下载官方 chat-demo v0.1.1 源码并解压，得到 `chat-demo` 文件夹。
 2. 把本文件夹放到 `chat-demo` 同级目录或里面
-3. 双击 `install-extensions.cmd`。
+3. 双击 `install-extensions.cmd`
 4. 进入 `chat-demo` 双击 `start.cmd`
 5. 开始使用DeepSeek-chat-demo
 
@@ -42,4 +42,4 @@
 - 本工具：MIT，Copyright (c) 2026 KMActually，见 [LICENSE](LICENSE)。
 - `files/` 内包含基于 [deepseek-ai/chat-demo](https://github.com/deepseek-ai/chat-demo) 修改的源码，遵循其 MIT 许可证，Copyright (c) 2026 DeepSeek，见 [LICENSE-chat-demo.txt](LICENSE-chat-demo.txt)。
 
-本项目与 DeepSeek 官方无关。使用时请遵守 DeepSeek 服务条款及当地法律法规。
+本项目与 DeepSeek 官方无关。使用时请遵守 DeepSeek 服务条款及当地法律法规
